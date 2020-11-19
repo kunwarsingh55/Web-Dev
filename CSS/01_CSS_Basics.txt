@@ -1,0 +1,33 @@
+CSS Basics
+
+#Syntax is very different from HTML
+
+#CSS is a set of rules which contain a 'selector' 
+	and one or more 'proprty' with a 'value' with
+		punctuation.
+
+Example - body{
+				font-family:ariel,sans-serif;
+	
+
+				}
+
+
+		Here, Body is a selector
+				font-fam is a property
+					ariel is a value
+
+
+-->How to use CCS with HTML
+		
+		There are three ways,
+
+		1. Inline - right on HTML tag - using the
+						style=attriute
+
+		2. An embedded style sheat in head of document.
+
+		3. As external sheet style in seperate document.
+
+		
+
